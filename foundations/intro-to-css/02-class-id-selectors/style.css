@@ -1,1 +1,6 @@
-/* Add CSS Styling */
+.odd {background:rgb(255, 128, 149);
+font-family:"Verdana", Dejavu-Sans,Sans-Serif; 
+font-size:24px;}
+
+#hash {color: #0000FF; font-size:36px;}
+
